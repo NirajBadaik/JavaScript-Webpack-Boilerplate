@@ -1,0 +1,13 @@
+/* to check if css-loader/style-loader is working */
+
+body{
+    background-color:blueviolet;
+    font-size: 2em;
+}
+
+h1{
+    color:#fff;
+}
+p{
+    color:#fff;
+}
